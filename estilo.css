@@ -1,0 +1,41 @@
+body{
+    background-color:#eddbc4;
+    background-attachment: fixed;
+}
+
+header{
+    background-color: #ff6e4a;
+}
+
+h1{
+   
+    
+    font-style:italic;
+    color:#5c5259;
+    background-attachment:fixed;
+    background-color: #a3c9a7;
+}
+
+p{
+    color: #ff6e4a;
+    font-style: italic;
+    font-size: larger;
+}
+
+label{
+    color:#5c5259;
+}
+
+article{
+    color:#5c5259 ;
+}
+
+footer{
+    display:block;
+    position: fixed;
+    bottom: 0vh;
+    left: 0%;
+    width: 100%;
+    background-color:#a3c9a7;
+    text-align: center;
+}
